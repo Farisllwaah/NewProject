@@ -1,1 +1,1 @@
-The first file tutorial for applying $git diff  
+The first file tutorial 
